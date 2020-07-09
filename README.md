@@ -1,5 +1,5 @@
 #### LoginRegistration Demo
-Link: [LoginRegistration](http://github.comhttps://github.com/540792740/LoginRegister)
+Link: [LoginRegistration](https://github.com/540792740/LoginRegister)
 
     This Project us a Login page and a Registration page
     by using naviator between this two screens
