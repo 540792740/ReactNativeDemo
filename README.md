@@ -1,5 +1,5 @@
 #### LoginRegistration Demo
-Link: [LoginRegistration](https://github.com/540792740/LoginRegister)
+Link: [LoginRegistration](https://github.com/540792740/ReactNativeLogin)
 
     This Project us a Login page and a Registration page
     by using naviator between this two screens
